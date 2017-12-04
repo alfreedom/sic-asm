@@ -1,0 +1,6 @@
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-asm\sic-asm\obj\Debug\SicAsmLexer.cs
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-asm\sic-asm\obj\Debug\SicAsmParser.cs
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-asm\sic-asm\obj\Debug\SicAsmListener.cs
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-asm\sic-asm\obj\Debug\SicAsmBaseListener.cs
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-asm\sic-asm\obj\Debug\SicAsmVisitor.cs
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-asm\sic-asm\obj\Debug\SicAsmBaseVisitor.cs

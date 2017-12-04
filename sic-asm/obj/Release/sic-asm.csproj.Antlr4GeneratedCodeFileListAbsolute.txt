@@ -1,0 +1,6 @@
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-asm\sic-asm\obj\Release\SicAsmLexer.cs
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-asm\sic-asm\obj\Release\SicAsmParser.cs
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-asm\sic-asm\obj\Release\SicAsmListener.cs
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-asm\sic-asm\obj\Release\SicAsmBaseListener.cs
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-asm\sic-asm\obj\Release\SicAsmVisitor.cs
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-asm\sic-asm\obj\Release\SicAsmBaseVisitor.cs
